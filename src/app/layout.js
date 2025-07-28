@@ -41,6 +41,7 @@ export default function RootLayout({ children }) {
                 <h1 className="text-4xl text-indigo-800 font-bold my-2">
                     Reading Recorder
                 </h1>
+
                 {/* 공통 메뉴 준비 */}
                 <ul className="flex bg-blue-600 mb-4 pl-2">
                     <li className="block px-4 py-2 my-1 hover:bg-gray-100 rounded">
